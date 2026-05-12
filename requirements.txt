@@ -1,5 +1,5 @@
 streamlit
-pandas
+pandas==1.5.3
 pycaret==3.3.2
 openai==1.30.0
 langfuse==2.60.0
