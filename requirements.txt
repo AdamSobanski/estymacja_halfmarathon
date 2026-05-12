@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret
+pycaret==3.3.2
 openai
 langfuse
 python-dotenv
