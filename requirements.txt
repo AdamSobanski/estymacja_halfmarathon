@@ -1,0 +1,6 @@
+streamlit
+pandas
+pycaret
+openai
+langfuse
+python-dotenv
