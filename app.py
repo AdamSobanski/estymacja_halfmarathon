@@ -19,7 +19,7 @@ def get_model():
 
 model = get_model()
 
-st.header("Estymacja czasu na mecie🦾!!!")
+st.header("Estymacja czasu na mecie🦾🦾🦾!!!")
 
 user_input = st.text_area('Przedstaw się nam! Podaj płeć, wiek i czas na 5km:')
 
